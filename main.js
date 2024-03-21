@@ -95,14 +95,17 @@ for (const resultadoFinal in resultado) {
 // }
 
 //Crea un bucle utilizando while que itere 20 veces y muestre por consola “Patata” cada vez que el número de la iteración sea múltiplo de 3.
-let i = 0
-while (i <= 20) {
-    if (i % 3 == 0) {
-        alert("Patata" + i)
-    }
-console.log(i)
-    i++;
-}
 
 
+//ESTA COMENTADO POR QUE SALE UNA ALERTA CON TODOS LOS MULTIPLOS DE 3 
+
+// let i = 0
+// while (i <= 20) {
+//     if (i % 3 == 0) {
+//         alert("Patata " + i)
+//     }
+// console.log(i)
+//     i++;
+// }
+ 
 
